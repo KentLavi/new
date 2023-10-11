@@ -50,6 +50,7 @@
     <meta name="geo.country" content="ID">
     <meta name="geo.region" content="ID" />
     <meta name="tgn.nation" content="Indonesia">
+     <meta name="google-site-verification" content="TaQzExECyP-FIkqRcort9BmbjllPC45MGX8hMZjBdvk" />
     <link rel="icon" type="image/x-icon" href="https://i0.wp.com/nothuman.ai/wp-content/uploads/2023/09/NotHuman-White.png" />
     <link rel="apple-touch-icon" href="https://i0.wp.com/nothuman.ai/wp-content/uploads/2023/09/NotHuman-White.png">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
